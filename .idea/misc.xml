@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/default-methods/pom.xml" />
         <option value="$PROJECT_DIR$/anonymous-classes/pom.xml" />
+        <option value="$PROJECT_DIR$/lambdas/pom.xml" />
       </list>
     </option>
   </component>
