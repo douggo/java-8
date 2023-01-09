@@ -10,6 +10,7 @@
         <module name="lambdas" />
         <module name="method-references" />
         <module name="anonymous-classes" />
+        <module name="streams" />
       </profile>
     </annotationProcessing>
   </component>

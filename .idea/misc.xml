@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/anonymous-classes/pom.xml" />
         <option value="$PROJECT_DIR$/lambdas/pom.xml" />
         <option value="$PROJECT_DIR$/method-references/pom.xml" />
+        <option value="$PROJECT_DIR$/streams/pom.xml" />
       </list>
     </option>
   </component>
