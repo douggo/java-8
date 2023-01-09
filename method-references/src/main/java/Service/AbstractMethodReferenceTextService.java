@@ -3,7 +3,9 @@ package Service;
 import Model.Text;
 import Repository.TextRepository;
 
-import java.util.Comparator;
+import java.util.Comparator; /* Usando o Comparator.comparing() */
+
+import static java.util.Comparator.comparing; /* Usando apenas o comparing()  */
 
 public class AbstractMethodReferenceTextService implements TextService {
 
@@ -24,6 +26,7 @@ public class AbstractMethodReferenceTextService implements TextService {
     @Override
     public void order() {
         this.text.getLines().sort(Comparator.comparing(String::length));
+        //this.text.getLines().sort(comparing(String::length));
     }
 
     @Override
