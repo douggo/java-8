@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/lambdas/pom.xml" />
         <option value="$PROJECT_DIR$/method-references/pom.xml" />
         <option value="$PROJECT_DIR$/streams/pom.xml" />
+        <option value="$PROJECT_DIR$/collectors/pom.xml" />
       </list>
     </option>
   </component>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="default-methods" />
         <module name="lambdas" />
+        <module name="collectors" />
         <module name="method-references" />
         <module name="anonymous-classes" />
         <module name="streams" />
