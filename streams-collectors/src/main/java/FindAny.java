@@ -23,7 +23,7 @@ public class FindAny {
 
     public static void ofControlled(List<Course> courses) {
         Optional<Course> filteredCourses = new FindAny(courses).getCourse();
-        Course course = filteredCourses.orElse(new Course("Outro Curso", 0));
+        Course course = filteredCourses.orElse(new Course("Other Course", 0));
         System.out.println(course.getName());
     }
 
