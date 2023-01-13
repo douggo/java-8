@@ -8,10 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="streams-collectors" />
         <module name="default-methods" />
+        <module name="streams" />
         <module name="lambdas" />
+        <module name="date-apis" />
         <module name="method-references" />
         <module name="anonymous-classes" />
-        <module name="streams" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
